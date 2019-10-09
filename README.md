@@ -3,5 +3,4 @@
 # Special Thanks to MR.K7C8NG
 
 # Copyright & License
-
-# Copyright (c) 2017 Slamet Riky GNU Public Lice
+  Copyright (c) 2019 Samuel Pasaribu GNU Public Lice
