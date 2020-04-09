@@ -10,7 +10,6 @@ $ pip install requests
 $ pip2 install requests
 <p>
 $ python2 SETAN.py
-<p>
+  
 # Copyright & License
-  <p>
   Copyright (c) 2019 Samuel Pasaribu GNU Public Lice
