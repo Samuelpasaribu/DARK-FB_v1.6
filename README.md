@@ -12,7 +12,7 @@ $ pip2 install requests
 $ python2 SETAN.py
   
 # CodingLan
-  Belajar Pemrograman <a href="https://codinglan.blogspot.com">READ MORE</a>
+  Belajar Pemrograman <a href="https://codinglan.blogspot.com">>>READ MORE</a>
 
 # Copyright & License
   Copyright (c) 2019 Samuel Pasaribu GNU Public Lice
