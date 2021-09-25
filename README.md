@@ -12,4 +12,4 @@ $ pip2 install requests
 $ python2 SETAN.py
   
 # Visit my blog
-  <a hrep="https://www.samuelpasaribu.com/">samuelpasaribu.com</a>
+  <a href="https://www.samuelpasaribu.com/">samuelpasaribu.com</a>
