@@ -23,7 +23,7 @@ $ python2 SETAN.py
 - 💬 [Chat Blogging][app2]
 - 💬 [Bot Chat][app3]
 - 🎵 [Music][app4]
-- 🏴‍☠️ [Deface][app5]
+- 🏴‍☠️ [Script Deface][app5]
 - 🛄 [Curriculum Vitae][app6]
 - 🅱️ [Blog][app7]
 
