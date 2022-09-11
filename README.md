@@ -1,4 +1,4 @@
-# Install
+# Install Tools
 $ git clone https://github.com/Samuelpasaribu/DARK-FB_v1.6
 <p>
 $ cd SETAN
@@ -13,7 +13,7 @@ $ python2 SETAN.py
 <p>
 <img alt="samuelpasaribu.com" height="55" loading="lazy" src="https://www.samuel.com/public/images/logo.svg" width="175">
   
-### Perkenalkan, Saya [Samuel Pasaribu][website]
+### [SAMUELPASARIBU.COM][website]
 <p>Hello i'm Junior Web Developer from Medan, North Sumatera, Indonesia. I like Design and UI/UX Design</p>
 
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UC6DRs2WBcTosEKqLUbgu5xA?color=%23ff0000&label=Ad%20Follow&logo=youtube&logoColor=%23ffffff&style=for-the-badge)](https://bit.ly/3fc1zZe)
@@ -21,11 +21,6 @@ $ python2 SETAN.py
 ### My Project Hosting
 - 💬 [Live Messenger][app1]
 - 💬 [Chat Blogging][app2]
-- 💬 [Bot Chat][app3]
-- 🎵 [Music][app4]
-- 🏴‍☠️ [Script Deface][app5]
-- 🛄 [Curriculum Vitae][app6]
-- 🅱️ [Blog][app7]
 
 ### My Skill
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png"/>
@@ -41,17 +36,12 @@ $ python2 SETAN.py
 <br/>
 <br/>
 
-[![Statistik Devanka761](https://github-readme-stats.vercel.app/api?username=devanka761&theme=github_dark&hide=contribs,commits&show_icons=true&custom_title=Statistik%20zonemedia)](https://github.com/Samuelpasaribu)
+[![Statistik Devanka761](https://github-readme-stats.vercel.app/api?username=devanka761&theme=github_dark&hide=contribs,commits&show_icons=true&custom_title=Statistik%20Keterampilan)](https://github.com/Samuelpasaribu)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanka761&theme=github_dark&exclude_repo=font-awesome-pro&custom_title=Bahasa%20Yang%20Sering%20Digunakan)](https://github.com/Samuelpasaribu)
 
 [app1]: https://myidchat.web.app
 [app2]: https://chatblogging.web.app
-[app3]: https://okemedia.web.app
-[app4]: https://okemedia.web.app/mp3
-[app5]: https://okemedia.web.app/status
-[app6]: https://samuelpasaribu.github.io
-[app7]: https://tikseo.blogspot.com
 [website]: https://www.samuelpasaribu.com
 
 <p>©&nbsp;2022 · <a href="https://www.samuelpasaribu.com">samuelpasaribu.com</a></p>
