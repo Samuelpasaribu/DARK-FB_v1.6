@@ -11,9 +11,6 @@ $ pip2 install requests
 <p>
 $ python2 SETAN.py
 <p>  
-### [SAMUELPASARIBU.COM][website]
-
-Perkenalkan Nama Saya Samuel Pasaribu saya berasal dari Indonesia Sumatera Utara, Saya bergerak Di bidang IT Information. Kalian Bisa Hubungi Saya Melalui [Myidchat](https://myidchat.web.app)
 
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UC6DRs2WBcTosEKqLUbgu5xA?color=%23ff0000&label=Ad%20Follow&logo=youtube&logoColor=%23ffffff&style=for-the-badge)](https://bit.ly/3fc1zZe)
 
