@@ -15,7 +15,7 @@ $ python2 SETAN.py
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UC6DRs2WBcTosEKqLUbgu5xA?color=%23ff0000&label=Ad%20Follow&logo=youtube&logoColor=%23ffffff&style=for-the-badge)](https://bit.ly/3fc1zZe)
 
 ### Projects
-- 💬 [Myidchat][app1]
+- 💬 Offline
 
 ### Stats
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png"/>
@@ -35,7 +35,6 @@ $ python2 SETAN.py
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanka761&theme=github_dark&exclude_repo=font-awesome-pro&custom_title=Bahasa%20Yang%20Sering%20Digunakan)](https://github.com/Samuelpasaribu)
 
-[app1]: https://myidchat.web.app
 [website]: https://www.samuelpasaribu.com
 
 ## &#x270d; Blog & Writing
