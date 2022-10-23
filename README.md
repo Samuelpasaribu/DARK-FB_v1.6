@@ -15,8 +15,10 @@ $ python2 SETAN.py
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UC6DRs2WBcTosEKqLUbgu5xA?color=%23ff0000&label=Ad%20Follow&logo=youtube&logoColor=%23ffffff&style=for-the-badge)](https://bit.ly/3fc1zZe)
 
 ### Projects
+V1.0 relase
 - 💬 [Myidchat][app]
-
+Update ChatKoding V2.0
+- 💬 [Chatkoding][web.app]
 ### Stats
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png"/>
 <img align="left" alt="PHP" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png"/>
@@ -37,6 +39,7 @@ $ python2 SETAN.py
 
 [website]: https://www.samuelpasaribu.com
 [app]: https://myidchat.web.app
+[web.app]: https://chatkoding.web.app
 
 ## &#x270d; Blog & Writing
 
