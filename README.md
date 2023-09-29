@@ -16,11 +16,11 @@ $ python2 SETAN.py
 
 # Projects
   
-Game & Music
-- ✅ [Okemedia][app]
+HaxorAI
+- ✅ [Website][app]
   
 Script Deface
-- ✅ [Haxor][web.app]
+- ✅ [Anonymous][web.app]
   
 # Languages
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png"/>
@@ -37,8 +37,8 @@ Script Deface
 <br>
 
 [website]: https://www.samuelpasaribu.com/
-[app]: https://okemedia.web.app/
-[web.app]: https://okemedia.web.app/haxor/
+[app]: https://www.haxorai.com/
+[web.app]: https://anonymous.haxorai.com/
 
 # &#x270d; Blog & Writing
 
