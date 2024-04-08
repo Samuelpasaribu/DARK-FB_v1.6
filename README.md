@@ -1,7 +1,7 @@
 # Install Tools
 $ git clone https://github.com/Samuelpasaribu/DARK-FB_v1.6
 <p>
-$ cd SETAN
+$ cd DARK-FB_v1.6
 <p>
 $ pip install mechanize
 <p>
